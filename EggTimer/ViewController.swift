@@ -3,6 +3,7 @@
 //  EggTimer
 //
 //  Created by Angela Yu on 08/07/2019.
+//  MOdified by Harshana Rathnamalala on 11/04/2020
 //  Copyright © 2019 The App Brewery. All rights reserved.
 //
 
